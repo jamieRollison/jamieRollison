@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi
+My name's Jamie! I make projects for [social good](github.com/hack4impact-uiuc) and I go to hackathons sometimes!
 
 <!--
 **jamieRollison/jamieRollison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
