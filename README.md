@@ -1,8 +1,8 @@
 ### 👋 My name's Jamie! 
 - I do 💻CS🤓 at 🔶UIUC🔷
 - I make projects for [social good](github.com/hack4impact-uiuc) 
-- I go to [hackathons](https://devpost.com/jamieRollison) sometimes! (i never lose)
-- I'll be working at Intuit in the summer
+- I go to [hackathons](https://devpost.com/jamieRollison) sometimes!
+- This summer I'm a Mobile Dev at Intuit!
 
 <!--
 **jamieRollison/jamieRollison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
