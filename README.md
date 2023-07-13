@@ -1,5 +1,6 @@
 ### 👋 My name's Jamie! 
 - I do 💻CS🤓 at 🔶UIUC🔷
+- Sometimes I do Linguistics and Math!
 - I make projects for [social good](github.com/hack4impact-uiuc) 
 - I go to [hackathons](https://devpost.com/jamieRollison) sometimes!
 - This summer I'm an Android Dev 📱🤖 at Intuit!!!
