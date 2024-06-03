@@ -3,8 +3,8 @@
 - I also do Linguistics and Math!
 - I make projects for [social good](https://uiuc.hack4impact.org)
 - I go to [hackathons](https://devpost.com/jamieRollison) sometimes!
-- Last summer I did Android Dev 📱🤖 at Intuit!!!
-- I love web dev!! Check out my portfolio (it's coming along slowly) 👇
+- Currently doing Android dev 🤖 at [Stripe](https://github.com/stripe)!
+- I love web dev!!
 
 <!--
 **jamieRollison/jamieRollison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
