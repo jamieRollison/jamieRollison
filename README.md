@@ -1,9 +1,9 @@
 ### 👋 My name's Jamie! 
 - I do 💻CS🤓 at 🔶UIUC🔷
+- I'm returning to [Stripe](https://github.com/stripe)!
 - I also do Linguistics and Math!
 - I make projects for [social good](https://uiuc.hack4impact.org)
 - I go to [hackathons](https://devpost.com/jamieRollison) sometimes!
-- Currently doing Android dev 🤖 at [Stripe](https://github.com/stripe)!
 - I love web dev!!
 
 <!--
